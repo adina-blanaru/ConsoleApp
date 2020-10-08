@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HomeworkOct7.cs" />
+    <Compile Include="Oct05Course.cs" />
+    <Compile Include="Oct07Course.cs" />
+    <Compile Include="Sept30Homework.cs" />
+    <Compile Include="Oct07Homework.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

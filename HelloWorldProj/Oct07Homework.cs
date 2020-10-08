@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace HelloWorldProj
 {
-    class HomeworkOct7
+    class Oct07Homework
     {
         //Exercitii22
 
