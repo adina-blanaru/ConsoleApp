@@ -8,8 +8,8 @@ namespace HelloWorldProj
     {
         static void Main()
         {
-            //HomeworkOct7.Ex23_26_27();
-            //CourseOct7.Oct7_IfElse();
+            Console.WriteLine(Oct12Course.getUserCredentials("adminUser"));
+
             Console.ReadKey();
         }
     }
